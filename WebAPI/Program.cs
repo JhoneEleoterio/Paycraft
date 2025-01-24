@@ -13,6 +13,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSwaggerGenWithAuth();
 builder.Services.AddAuthorization(); // TODO: Add policies for routes
 builder.Services.AddCustomAuthentication(builder.Configuration);
+builder.Services.AddDatabaseService(builder.Configuration);
 
 builder.Services.AddScoped<TokenService>();
 
