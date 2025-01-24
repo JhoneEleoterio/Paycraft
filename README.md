@@ -1,6 +1,6 @@
 # [PayCraft]
 
-**Uma solução para gerenciar suas finanças.**
+**Uma solução para gerenciar sua Carteira Digital.**
 
 Este repositório contém o código fonte de **[PayCraft]**, uma aplicação web que simplifica o controle de suas finanças pessoais. Com **[PayCraft]**, você pode:
 
